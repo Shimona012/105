@@ -1,7 +1,7 @@
 import os
 import cv2
 
-path = "pro105/Images/"
+path = "pro105/Images\Images"
 
 images = []
 
